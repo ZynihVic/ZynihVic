@@ -1,6 +1,6 @@
 Olá, sou Victor Augusto
 
-- 🔭 Hoje Trabalho com Front-End e Back-end
+- 🔭 Hoje Trabalho com Front-end e Back-end
 - 🌱 Estudando Node, React, Javascript, HTML, CSS, DOM, Express, PostgreSQL.
 - 📫 contacte-me no email: victoraugusto34@gmail.com
 - 😄 Pronouns: ele/dele
