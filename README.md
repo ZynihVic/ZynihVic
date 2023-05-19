@@ -1,4 +1,4 @@
-Olá, sou Victor Augusto
+## Olá, meu nome é Victor Augusto
 
 - 🔭 Hoje Trabalho com Front-end e Back-end
 - 🌱 Estudando Node, React, Javascript, HTML, CSS, DOM, PostgreSQL.
