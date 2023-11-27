@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho com Front-end e Back-end
 - 🌱 Estudando Node, React, Javascript, HTML, CSS, DOM, PostgreSQL.
-- 📫 contacte-me no email: victoraugusto34@gmail.com
+- 📫 contate-me no email: victoraugusto34@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
